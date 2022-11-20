@@ -10,11 +10,11 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/maya-boro/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/maya-boro/azure-network-protocols)
   - [Shared Drive Permissions with the New Technology File System (NTFS)](https://github.com/maya-boro/shared-drive-permissions)
-- <b>The Command Line</b>
+- <b>Group Policy</b>
    - [Group Policy Management](https://github.com/maya-boro/group-policy)
    
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Maya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Maya | LinkedIn" width="52px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/maya-b-5034b5236
