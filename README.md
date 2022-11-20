@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/maya-boro/azure-network-protocols)
   - [Shared Drive Permissions with the New Technology File System (NTFS)](https://github.com/maya-boro/shared-drive-permissions)
 - <b>The Command Line</b>
-   - [Utilizing the Command Line Interface for Windows Device Management](https://github.com/maya-boro/command-line)
+   - [Group Policy Management](https://github.com/maya-boro/group-policy)
    
 <h2>🤳Connect with me:</h2>
 
