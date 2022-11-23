@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/maya-boro/azure-network-protocols)
   - [Shared Drive Permissions with the New Technology File System (NTFS)](https://github.com/maya-boro/shared-drive-permissions)
 - <b>Group Policy</b>
-   - [Deploying Software Using Group Policy](https://github.com/maya-boro/group-policy)
+   - [Software Deployment Using Group Policy](https://github.com/maya-boro/group-policy)
    
 <h2>🤳Connect with me:</h2>
 
