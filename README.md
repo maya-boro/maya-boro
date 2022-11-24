@@ -12,6 +12,8 @@
   - [Shared Drive Permissions with the New Technology File System (NTFS)](https://github.com/maya-boro/shared-drive-permissions)
 - <b>Group Policy</b>
    - [Software Deployment Using Group Policy](https://github.com/maya-boro/group-policy)
+- <b>Microsoft 365</b>
+   - [Creation and Configuration of User Accounts in Microsoft 365](https://github.com/maya-boro/microsoft-365-user-setup)
    
 <h2>🤳Connect with me:</h2>
 
